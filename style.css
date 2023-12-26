@@ -97,8 +97,9 @@ div.final{
    font: bold normal 1em 'Arial';
    margin: 10px;
    height: 60%;
-   padding: 10px;
-
+  
+  
+   
 }
 .final > h4{
    color: white;
@@ -113,6 +114,7 @@ div.final{
    text-align: justify;
    margin: 20px;
    text-indent: 30px;
+   padding: 15px;
 }
 
 .final > ul{
