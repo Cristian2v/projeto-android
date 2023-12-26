@@ -14,6 +14,7 @@ body{
  header{
     background-image: linear-gradient(to bottom, #31ba6f,  #1f6d42, #0f4126 );
     color: white;
+
     
 }
 header > h1{ 
@@ -24,15 +25,20 @@ header > h1{
 
 header > p{
    text-align: center;
-   width: 400px;
+  
    margin: 0px auto 30px;
 }
 
+div{
+   width: 80%;
+}
 div > a {
    text-decoration: unset;
    color: white;
    font-weight: bolder;
    margin: 0px 15px;
+   
+   
 }
 div > a:hover{
    color:#091f13;
