@@ -26,18 +26,17 @@ header > h1{
 
 header > p{
    text-align: center;
-  
    margin: 0px auto 30px;
+   width: 60%;
 }
 
-div{
-   width: 80%;
-}
+
 div > a {
    text-decoration: unset;
    color: white;
    font-weight: bolder;
    margin: 0px 15px;
+   width: 60%;
    
    
 }
