@@ -96,7 +96,8 @@ div.final{
    border-radius: 10px 10px 10px 10px;
    font: bold normal 1em 'Arial';
    margin: 10px;
-   height: 400px;
+   height: 60%;
+   padding: 10px;
 
 }
 .final > h4{
