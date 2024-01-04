@@ -14,20 +14,21 @@ body{
  header{
     background-image: linear-gradient(to bottom, #31ba6f,  #1f6d42, #0f4126 );
     color: white;
-    width: 100%;
+    
 
     
 }
 header > h1{ 
    text-align: center;
-   padding: 20px 0px 15px 0px;  
+   padding: 20px 0px 20px 0px;  
    margin: 0; 
 }
 
 header > p{
    text-align: center;
    margin: 0px auto 30px;
-   width: 60%;
+   
+  
 }
 
 
@@ -36,7 +37,6 @@ div > a {
    color: white;
    font-weight: bolder;
    margin: 0px 15px;
-   width: 60%;
    
    
 }
